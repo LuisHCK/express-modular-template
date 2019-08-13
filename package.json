@@ -15,7 +15,8 @@
     "debug": "~2.6.9",
     "express": "~4.16.0",
     "morgan": "~1.9.0",
-    "rimraf": "^2.6.3"
+    "rimraf": "^2.6.3",
+    "start": "babel-node ./src/bin/www"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
