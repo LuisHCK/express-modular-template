@@ -1,0 +1,10 @@
+{
+    "app_name": "Demo App",
+    "domain": "e2api.com",
+    "subdomain": "app-demo",
+    "port": 3009,
+    "proxy": true,
+    "app_type": "api",
+    "env": "production",
+    "main_file": "src/bin/www.js"
+}
